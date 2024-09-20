@@ -8,6 +8,7 @@
 * **NumPy**
 * **Scikit-learn**
 * **Tensorflow/Keras**
+* **Gurobi**
 * **NetworkX**
 * **Matplotlib**
 * **Seaborn**
