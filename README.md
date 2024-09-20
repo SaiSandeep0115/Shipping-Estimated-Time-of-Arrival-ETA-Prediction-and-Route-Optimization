@@ -1,4 +1,4 @@
-# Shipping-Estimated-Time-of-Arrival-ETA-Prediction-and-Route-Optimization
+# Maritime-Shipping-Estimated-Time-of-Arrival-ETA-Prediction-and-Route-Optimization
 
 ## Languages:
 * **Python**
