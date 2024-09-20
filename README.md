@@ -7,6 +7,7 @@
 * **Pandas**
 * **NumPy**
 * **Scikit-learn**
+* **Tensorflow/Keras**
 * **NetworkX**
 * **Matplotlib**
 * **Seaborn**
